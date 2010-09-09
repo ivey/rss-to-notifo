@@ -1,0 +1,21 @@
+GIT
+  remote: http://github.com/ivey/notifo.git
+  revision: b0e26851a0c25dae102f01071df12bb7672056da
+  specs:
+    notifo (0.1.2)
+      httparty (~> 0.4.5)
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    crack (0.1.8)
+    httparty (0.4.5)
+      crack (>= 0.1.1)
+    simple-rss (1.2.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  notifo!
+  simple-rss
