@@ -2,7 +2,7 @@ A simple script to fetch an RSS feed, and send Notifo notifications on
 new entries.
 
 Quickstart:
-$ git clone http://github.com/ivey/rss-to-notifo.git
+$ git clone git://github.com/ivey/rss-to-notifo.git
 $ cd rss-to-notifo
 $ bundle install
 $ ./rss2notifo.rb -u USER -k API_KEY -f RSS_FEED_URL

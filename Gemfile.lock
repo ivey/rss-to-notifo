@@ -1,5 +1,5 @@
 GIT
-  remote: http://github.com/ivey/notifo.git
+  remote: git://github.com/ivey/notifo.git
   revision: b0e26851a0c25dae102f01071df12bb7672056da
   specs:
     notifo (0.1.2)
