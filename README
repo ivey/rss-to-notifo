@@ -5,8 +5,9 @@ Quickstart:
 $ git clone git://github.com/ivey/rss-to-notifo.git
 $ cd rss-to-notifo
 $ bundle install
-$ ./rss2notifo.rb -u USER -k API_KEY -f RSS_FEED_URL
+$ ./rss2notifo.rb -u USER -k API_KEY RSS_FEED_URL
 
+Will also pull user and key from NOTIFO_USER / NOTIFO_KEY env vars
 
 Usage: rss2notifo.rb [@options] FEED_URL
     -u, --user USER                  Notifo username
